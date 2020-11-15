@@ -1,0 +1,31 @@
+{
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "cSpell.words": [
+        "div",
+        "gayathri",
+        "href",
+        "lable",
+        "orgroup",
+        "password",
+        "repassword",
+        "righ",
+        "righ div",
+        "signup",
+        "superscene",
+        "toggle",
+        "toggle password visiblity",
+        "togglere",
+        "togglere password visiblity",
+        "twoquote",
+        "visiblity"
+    ],
+    "cSpell.ignoreWords": [
+        "checed",
+        "linkedin",
+        "set",
+        "set checed"
+    ]
+}
