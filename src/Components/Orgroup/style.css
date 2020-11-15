@@ -1,0 +1,19 @@
+.outer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Inter;
+  font-size: 12px;
+  color: #bababa;
+  margin-top: 20px;
+  width: 426px;
+  height: 15px;
+}
+.inner {
+  width: 172px;
+  height: 0px;
+  left: 793px;
+  top: 853px;
+  border: 1px solid #f5f5f5;
+}

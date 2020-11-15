@@ -1,0 +1,18 @@
+.back_div {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  width: 70px;
+  height: 20px;
+  position: absolute;
+  justify-content: space-between;
+  left:74px; 
+  top: 74px;
+
+}
+.back {
+  font-family: Inter;
+  color: #8692a6;
+  font-weight: 600;
+  line-height: 19px;
+}

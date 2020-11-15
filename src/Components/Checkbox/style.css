@@ -1,0 +1,19 @@
+.check_div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    align-items: center;
+}
+.check_input{
+    width: 24px;
+    height: 24px;
+    margin-right: 20px;
+}
+.check_text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #696F79;
+
+}

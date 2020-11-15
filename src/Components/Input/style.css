@@ -1,0 +1,40 @@
+.input_div {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+}
+.label{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #696F79;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.input {
+  width: 426px;
+  height: 64px;
+  border: 1px solid #8692A6;
+  border-radius: 6px;
+  padding-left: 20px;
+  outline: none;
+}
+.eye{
+position: absolute;
+left: 370px;
+top:90px;
+z-index: 1;
+
+}
+.hiddenSvg{
+  display:none 
+}
+.error-text{
+  border-color: red;
+}
+.error-div{
+  color: red;
+  margin-top: 5px;
+}
